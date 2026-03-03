@@ -120,5 +120,5 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-Sithara Parvin
+Sithara Parvin | 
 Aspiring Data Analyst | Python | EDA | Business Analytics
